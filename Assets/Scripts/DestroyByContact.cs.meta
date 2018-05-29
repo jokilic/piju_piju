@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a72017aae5966dd44ad7ad5801806983
+timeCreated: 1456283984
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidExplosion: {fileID: 8300000, guid: 3c8e23aafab79f64d820dadefb6a2561, type: 3}
+  - playerExplosion: {fileID: 8300000, guid: ed229f29e2234d0418b0b657e4be4cf6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
