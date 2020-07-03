@@ -4,7 +4,7 @@ Piju piju is a simple game made in **Unity**.
 You play as a small starship, destroying the asteroids that come in your path.
 I managed to draw everything, record background music, do the audio effects and create everything myself.
 
-### Game can be downloaded from [HERE](https://github.com/jokilic/piju_piju/raw/master/piju_piju.apk).
+### Game can be downloaded from [HERE](https://github.com/jokilic/piju_piju/releases/download/1.0/piju_piju.apk).
 
 ## Two modes of play
 
