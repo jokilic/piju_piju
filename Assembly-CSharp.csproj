@@ -80,11 +80,11 @@
      <Compile Include="Assets\Scripts\WeaponController.cs" />
      <Compile Include="Assets\Scripts\WhiteDisplayHighscores.cs" />
      <Compile Include="Assets\Scripts\WhiteHighscores.cs" />
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Josip K/Documents/Projects/piju_piju/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Josip K/Documents/Projects/piju_piju/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>C:/Users/Josip K/Documents/Projects/piju_piju/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>C:/Users/Josip K/Documents/Projects/piju_piju/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>

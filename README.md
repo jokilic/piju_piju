@@ -7,7 +7,7 @@ You play as a small starship, destroying the asteroids that come in your path.
 I managed to draw everything, record background music, do the audio effects and create everything myself.
 Online highscores are available so you can compete with your friends and see who is the master of Piju piju.
 
-### Game can be downloaded from [HERE](https://github.com/jokilic/piju_piju/releases/download/1.0/piju_piju.apk).
+### Game can be downloaded from [HERE](https://play.google.com/store/apps/details?id=com.josip.pijupiju).
 
 ![Multi](https://raw.githubusercontent.com/jokilic/piju_piju/master/screenshots/multi.png)
 
